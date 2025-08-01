@@ -49,9 +49,9 @@ const skills = {
 
 | Project | Project |
 |--------|---------|
-|  🎬 Netflix Clone  **Tech:** React, Firebase   ➤ [Live Demo](https://movie-clone-two-gamma-11.vercel.app/) |  🍔 Food Delivery App  **Tech:** React, Node.js   ➤ [Live Demo](https://food-delivery-app-eta-seven.vercel.app) |
-|  💬 Chat App  **Tech:** React, Socket.io, Node.js  ➤ [Live Demo](https://chatapp-ruddy.vercel.app) |  🎉 College Fest Event Management  **Tech:** React, Node.js  ➤ [Live Demo](https://college-fest-event.vercel.app) |
-|  🌦️ Weather Forecast App  **Tech:** React, Express.js, OpenWeather API  ➤ [Live Demo](https://weather-app-ragul.vercel.app) |  💼 Portfolio Website  **Tech:** React, Tailwind CSS  ➤ [Live Demo](https://portfolio-me-three-chi.vercel.app) |
+|  🎬 Netflix Clone  **Tech:** React, Firebase   ➤ [Live Demo](https://movie-clone-two-gamma-11.vercel.app/) |  🍔 Food Delivery App  **Tech:** React, Node.js   ➤ [Live Demo](https://food-delivery-website-m58u.vercel.app/) |
+|  💬 Chat App  **Tech:** React, Socket.io, Node.js  ➤ [Live Demo](https://chatapp-forntend.vercel.app/) |  🎉 College Fest Event Management  **Tech:** React, Node.js  ➤ [Live Demo](https://event-chi-seven.vercel.app/) |
+|  🌦️ Weather Forecast App  **Tech:** React, Express.js, OpenWeather API  ➤ [Live Demo](https://weather-forcast-lac.vercel.app/) |  💼 Portfolio Website  **Tech:** React, Tailwind CSS  ➤ [Live Demo](https://portfolio-me-three-chi.vercel.app) |
 
 
 ---
