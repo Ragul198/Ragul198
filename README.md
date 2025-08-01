@@ -45,21 +45,12 @@ const skills = {
 
 ### 🔥 Featured Projects
 
-#### 🎬 Netflix Clone  
-**Tech:** React, Firebase  
-➤ [Live Demo](https://your-netflix-clone.vercel.app) | [GitHub](https://github.com/your-username/netflix-clone)
+| Project | Project |
+|--------|---------|
+|  🎬 Netflix Clone  **Tech:** React, Firebase   ➤ [Live Demo](https://netflix-clone-snowy-two.vercel.app) |  🍔 Food Delivery App  **Tech:** React, Node.js   ➤ [Live Demo](https://food-delivery-app-eta-seven.vercel.app) |
+|  💬 Chat App  **Tech:** React, Socket.io, Node.js  ➤ [Live Demo](https://chatapp-ruddy.vercel.app) |  🎉 College Fest Event Management  **Tech:** React, Node.js  ➤ [Live Demo](https://college-fest-event.vercel.app) |
+|  🌦️ Weather Forecast App  **Tech:** React, Express.js, OpenWeather API  ➤ [Live Demo](https://weather-app-ragul.vercel.app) |  💼 Portfolio Website  **Tech:** React, Tailwind CSS  ➤ [Live Demo](https://portfolio-me-three-chi.vercel.app) |
 
-#### 📺 YouTube Clone  
-**Tech:** React, YouTube API  
-➤ [Live Demo](https://your-youtube-clone.vercel.app) | [GitHub](https://github.com/your-username/youtube-clone)
-
-#### 🍔 Food Delivery App  
-**Tech:** React, Node.js  
-➤ [Live Demo](https://your-food-app.vercel.app) | [GitHub](https://github.com/your-username/food-app)
-
-#### 💼 Portfolio Website  
-**Tech:** React, Tailwind CSS  
-➤ [Live Demo](https://portfolio-me-three-chi.vercel.app) | [GitHub](https://github.com/your-username/portfolio)
 
 ---
 
