@@ -68,10 +68,10 @@ const skills = {
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ragul-a-190820030and7032004/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" style="margin-right: 10px;" />
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:ragul198a@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" style="margin-right: 10px;" />
   </a>
 </p>
