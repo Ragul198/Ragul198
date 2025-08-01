@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/CCNA-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-js
+```js
 const skills = {
   frontend: ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Bootstrap", "Vue.js"],
   backend: ["Node.js", "Express.js", "Firebase", "Supabase", "REST API"],
@@ -40,6 +40,8 @@ const skills = {
   tools: ["Git", "Postman", "Vercel", "Netlify", "Figma"],
   other: ["DSA", "n8n", "Content Creation", "Networking Basics"]
 }
+```
+
 
 
 
@@ -58,7 +60,7 @@ const skills = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ragul198&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragul198&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -83,4 +85,4 @@ const skills = {
   <img src="https://media.tenor.com/6gXAZtN3-SoAAAAC/zoro-one-piece.gif" width="300px" alt="Zoro gif" />
   <br>
   <i>"If I die here, then I'm a man that could only make it this far." — Roronoa Zoro</i>
-</p> now replace in this
+</p> 
